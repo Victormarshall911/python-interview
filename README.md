@@ -118,13 +118,6 @@ Sum of first 50 Fibonacci numbers: 20365011073
 
 This project is not under a specific license. All rights are reserved.
 
-## 👤 Author
-
-Feel free to connect with me!
-
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **LinkedIn**: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
-
 ---
 <div align="center">
 
