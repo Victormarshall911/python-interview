@@ -2,8 +2,8 @@
 **Full Stack Software Engineer (Backend Focused)**
 **Location:** Lagos, Nigeria
 **Email:** marshallvictor46@gmail.com
-**Phone:** [+2349165283674]
-**Portfolio/GitHub:** [https://github.com/Victormarshall911]
+**Phone:** +2349165283674
+**Portfolio/GitHub:** https://github.com/Victormarshall911
 
 ---
 
@@ -23,8 +23,8 @@ Results-oriented Software Engineer with 4+ years of experience in full-stack dev
 
 ### PROFESSIONAL EXPERIENCE
 
-**Software Engineer | Freelance / [MalcNexus]**
-*Lagos, Nigeria | [August, 2025] – Present*
+**Software Engineer | Freelance / MalcNexus**
+*Lagos, Nigeria | August, 2025 – Present*
 
 * **Mobile Banking Application Development:**
     * Architected and built a secure mobile banking app using React Native and Supabase.
@@ -36,8 +36,8 @@ Results-oriented Software Engineer with 4+ years of experience in full-stack dev
     * Implemented strict identity verification modules, integrating NIN (National Identification Number) verification APIs.
     * Automated communication workflows using Formspree for reliable email delivery and user notifications.
 
-**Full Stack Developer | [Happy Family Commission]**
-*Lagos, Nigeria | [June, 2025] – [August, 2025]*
+**Full Stack Developer | Happy Family Commission**
+*Lagos, Nigeria | June, 2025 – August, 2025*
 
 * **Institutional Navigation System (COOU):**
     * Developed a campus navigation website to assist users in locating buildings and departments.
@@ -57,5 +57,5 @@ Results-oriented Software Engineer with 4+ years of experience in full-stack dev
 ---
 
 ### EDUCATION
-**[B.Sc. Computer Science]**
-*[Chukwuemeka Odumegwu Ojukwu University]* | *[2028]*
+**B.Sc. Computer Science**
+*Chukwuemeka Odumegwu Ojukwu University* | *2028*
